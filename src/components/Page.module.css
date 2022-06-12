@@ -1,0 +1,9 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.question-wrapper {
+    composes: mb-5, mt-2;
+    
+}
+.subquestion-wrapper {
+    composes: container, row, mb-4;
+}
